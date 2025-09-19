@@ -1,6 +1,6 @@
 # Copy Constructors
 
-This repository goes over some of the basics of binary search trees.
+This repository goes over some of the basics of copy constructors.
 
 ## Building Executables With CMake Via the Terminal
 
